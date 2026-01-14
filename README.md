@@ -54,7 +54,7 @@ pip install -r requirements-cv-linux.txt
 
 ```bash
 
-pythonget_street_score.py--input_csv../data/上市公司地址.csv--output_csv../data/street_scores.csv--location_coloffaddress--score_typeBeautifulSafe
+python get_street_score.py --input_csv ../data/上市公司地址.csv --output_csv ../data/street_scores.csv --location_col offaddress --score_type Beautiful Safe
 
 ```
 
@@ -74,3 +74,4 @@ pythonget_street_score.py--input_csv../data/上市公司地址.csv--output_csv..
 引用
 
 - 本项目部分实现参考并使用了开源仓库：ualsg/global-streetscapes — https://github.com/ualsg/global-streetscapes
+
